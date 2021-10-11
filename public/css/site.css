@@ -1,0 +1,34 @@
+body,html{
+	height: 100%;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+img{
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+	height: 100%;
+}
+.sub-main{
+	margin: auto;
+	text-align: center;
+	position: absolute;
+	top: 55%;
+	left: 20%;
+	color: black;
+}
+.header-mine{
+	background-color: #F0D5D6;
+	border-radius: 10%;
+	font-family: "Open Sans", sans-serif;
+}
+.h1-mine{
+	font-family: "Sofia", sans-serif;
+	font-weight: bolder;
+	color:#CD1013;
+	font-size: 600%;
+}
+.left-mine{
+	background-color: #A88E8E;
+	font-family: "Sofia", sans-serif;
+}
